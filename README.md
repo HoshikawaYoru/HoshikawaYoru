@@ -1,6 +1,6 @@
-# 💎Hi~ 各位💎
-我是星川(ほしかわ)よる,擅长Java,热衷于写小工具.  
-喜欢二次元,点兔厨.
+# 💎Hi~ 各位!💎
+我是星川(ほしかわ)よる,擅长Java,热衷于写小工具  
+爱看点兔૮(˶ᵔ ᵕ ᵔ˶)ა
 
 ## 🌟社交账号🌟
 [![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-星川よる-blue.svg?logo=bilibili)](https://space.bilibili.com/3493294482917876)
