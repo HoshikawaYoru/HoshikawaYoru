@@ -5,6 +5,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-星川よる-blue.svg?logo=github)](https://github.com/HoshikawaYoru)
 
 ## 📈数据📉
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&count_private=true&show_icons=true&bg_color=to_left_bottom,ffb3ff,00bfff&locale=cn)](https://github.com/HoshikawaYoru)
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HoshikawaYoru)](https://github.com/HoshikawaYoru)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&count_private=true&show_icons=true&locale=cn)](https://github.com/HoshikawaYoru)
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HoshikawaYoru&count_private=true&show_icons=true&locale=cn)](https://github.com/HoshikawaYoru)
