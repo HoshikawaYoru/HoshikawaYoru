@@ -8,4 +8,4 @@
 [![GitHub Start](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)](https://github.com/HoshikawaYoru)
 
 ## 📈数据📉
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,c94b4b,4b134f)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=00BFFF,c94b4b,4b134f)
