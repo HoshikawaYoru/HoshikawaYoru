@@ -6,4 +6,4 @@
 
 
 ## 📈数据📉
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&count_private=true)]()
