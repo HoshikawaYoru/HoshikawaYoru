@@ -2,7 +2,7 @@
 **Version 1**  
 **Copyright ©**
 **2023**
-**HoshikawaYoru**
+**HoshikawaYoru.net**
 
 ## 条款
 1. 定义
