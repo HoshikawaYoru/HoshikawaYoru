@@ -9,4 +9,4 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoshikawaYoru&count_private=true&show_icons=true&locale=cn)](https://github.com/HoshikawaYoru)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HoshikawaYoru&count_private=true&show_icons=true&locale=cn)](https://github.com/HoshikawaYoru)
 
-![Repo|CashBook](https://github-readme-stats.vercel.app/api/pin?username=HoshikawaYoru&repo=CashBook)
+![Repo|YoruDownloader](https://github-readme-stats.vercel.app/api/pin?username=HoshikawaYoru&repo=YoruDownloader)
